@@ -1,5 +1,5 @@
 # iMAR
-iterative metal artefact reduction
+Iterative metal artefact reduction
 
 ### Reference
 https://doi.org/10.1109/TNS.2013.2275919
